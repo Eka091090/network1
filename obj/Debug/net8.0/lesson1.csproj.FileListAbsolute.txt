@@ -1,0 +1,14 @@
+C:\Users\GrinikAV\Desktop\lesson1\bin\Debug\net8.0\lesson1.exe
+C:\Users\GrinikAV\Desktop\lesson1\bin\Debug\net8.0\lesson1.deps.json
+C:\Users\GrinikAV\Desktop\lesson1\bin\Debug\net8.0\lesson1.runtimeconfig.json
+C:\Users\GrinikAV\Desktop\lesson1\bin\Debug\net8.0\lesson1.dll
+C:\Users\GrinikAV\Desktop\lesson1\bin\Debug\net8.0\lesson1.pdb
+C:\Users\GrinikAV\Desktop\lesson1\obj\Debug\net8.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GrinikAV\Desktop\lesson1\obj\Debug\net8.0\lesson1.AssemblyInfoInputs.cache
+C:\Users\GrinikAV\Desktop\lesson1\obj\Debug\net8.0\lesson1.AssemblyInfo.cs
+C:\Users\GrinikAV\Desktop\lesson1\obj\Debug\net8.0\lesson1.csproj.CoreCompileInputs.cache
+C:\Users\GrinikAV\Desktop\lesson1\obj\Debug\net8.0\lesson1.dll
+C:\Users\GrinikAV\Desktop\lesson1\obj\Debug\net8.0\refint\lesson1.dll
+C:\Users\GrinikAV\Desktop\lesson1\obj\Debug\net8.0\lesson1.pdb
+C:\Users\GrinikAV\Desktop\lesson1\obj\Debug\net8.0\lesson1.genruntimeconfig.cache
+C:\Users\GrinikAV\Desktop\lesson1\obj\Debug\net8.0\ref\lesson1.dll
